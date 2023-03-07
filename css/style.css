@@ -6,6 +6,14 @@
     --dark: #1C2035;
 }
 
+.bg-primary {
+    background-color: #4761FF !important;
+}
+
+.text-primary {
+    color: #4761FF !important;
+}
+
 .back-to-top {
     position: fixed;
     display: none;
@@ -81,6 +89,7 @@
     top: -100px;
     transition: .5s;
 }
+
 
 .navbar .navbar-nav .nav-link {
     margin-right: 35px;
