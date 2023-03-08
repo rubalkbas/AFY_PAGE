@@ -1,17 +1,17 @@
 /********** Template CSS **********/
 :root {
-    --primary: #4761FF;
+    --primary: #D4BA11;
     --secondary: #555555;
     --light: #F1F3FA;
     --dark: #1C2035;
 }
 
 .bg-primary {
-    background-color: #4761FF !important;
+    background-color: #D4BA11 !important;
 }
 
 .text-primary {
-    color: #4761FF !important;
+    color: #D4BA11 !important;
 }
 
 .back-to-top {
